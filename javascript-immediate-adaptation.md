@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: "New to JavaScript"
+title: "JavaScript: Immediate Adaptation"
 # All dates must be YYYY-MM-DD format!
-date: 2022-01-17
-published: false
+date: 2022-01-18
+published: true
 labels:
   - Engineering
 ---
