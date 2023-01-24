@@ -6,7 +6,9 @@ title: "JavaScript: A Test of Adaptation"
 date: 2023-01-17
 published: true
 labels:
-  - Engineering
+  - Java
+  - Javascript
+  - Software Engineering
 ---
 
 Before I was an ICS major, I was a music composition major. I began studying music about 10 years ago, and studied it in college for 2.5 years. That's when I decided that maybe I should switch my area of study.
