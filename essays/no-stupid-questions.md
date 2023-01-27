@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "There Are No Stupid Questions"
+title: "There Are No Stupid Questions..."
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-26
 published: true
