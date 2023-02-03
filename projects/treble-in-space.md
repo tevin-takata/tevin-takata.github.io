@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/sheetmusic.jpg
+image: img/trebleinspacesquare.png
 title: "Treble In Space"
 date: 2020
 published: true
