@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/sudokusquare.png
 title: "Sudoku Solver"
-date: 2021
+date: 2022
 published: true
 labels:
   - Java
