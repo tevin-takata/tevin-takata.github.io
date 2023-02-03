@@ -11,7 +11,9 @@ labels:
 summary: "Wrote a piece the was performed at the UH Manoa 2021 Fall Semester Composer Symposium"
 ---
 
-
+<img width="500px" 
+     class="mx-auto d-block" 
+     src="../img/madealongtheway.png" >
 
 In the fall of 2021, I was a music compostion major, so I took lessons from Dr. Thomas Osborne to compose pieces, that may be performed at the Composer Symposium at the end of the semester. The piece is a fantasia, which is a piece of music that is improvisatory, or is based on several familiar tunes. It was written for a Bb clarinet, Eb alto saxophone, trombone, and piano, which were performed by my peers and myself on piano.
 
