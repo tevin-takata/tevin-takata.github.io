@@ -32,3 +32,5 @@ Here's a comparison between two:
 <img width="400px" 
      class="mx-auto d-block right-justify" 
      src="../img/yamaha-copy.png" > 
+     
+The first image is Yamaha's original website. The second image is a copy I created in Bootstrap in one hour and a half. Even though some of it was frustrating, I can say that the amount of time spent using and practicing Bootstrap 5 is more than worth it in the long run. Sure it's like learning an entirely new language, but the benefits are better in the long term, which I belive makes it better overall.
