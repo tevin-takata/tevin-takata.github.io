@@ -23,4 +23,13 @@ Learning a UI Framework is not easy. I'm still having so many issues about how m
 
 I'm sure that as someone who has only been practicing UI for one week, I'm probably not as qualified to give an answer, but even after using Bootstrap 5 for one week, it's pretty clear to me that UI Frameworks, despite the difficulty, make the process so much less tedious. It's true that learning UI Frameworks is like learning an entirely new programming language, but it simplifies the process enough to where, even though it can be frustrating, it doesn't take hours to make the necessary changes.
 
-Here's a comparison between two 
+Here's a comparison between two:
+<img width="500px" 
+     float="left"
+     class="mx-auto d-block" 
+     src="../img/yamaha-original.png" >
+
+<img width="500px" 
+     float="right"
+     class="mx-auto d-block" 
+     src="../img/yamaha-copy.png" >
