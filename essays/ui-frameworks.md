@@ -32,4 +32,4 @@ Here's a comparison between two:
 <img width="500px" 
      float="right"
      class="mx-auto d-block" 
-     src="../img/yamaha-copy.png" >
+     src="../img/yamaha-copy.png" > 
