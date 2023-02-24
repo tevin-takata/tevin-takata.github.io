@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The Pains of UI Frameworks... And Why That's a Good Thing"
 # All dates must be YYYY-MM-DD format!
-date: 2023-02-02
+date: 2023-02-23
 published: true
 labels:
   - Software Engineering
