@@ -26,11 +26,9 @@ I'm sure that as someone who has only been practicing UI for one week, I'm proba
 Here's a comparison between two:
 
 <img width="400px" 
-     float="left"
-     class="mx-auto d-block" 
+     class="mx-auto d-block left-justify" 
      src="../img/yamaha-original.png" >
 
 <img width="400px" 
-     float="right"
-     class="mx-auto d-block" 
+     class="mx-auto d-block right-justify" 
      src="../img/yamaha-copy.png" > 
