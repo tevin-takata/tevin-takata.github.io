@@ -10,7 +10,7 @@ labels:
   - Design Patterns
 ---
 
-When a common problem occurs and affects a lot of people, it's only natural to develop similar solutions to each instance of that problem. Design patterns are conceptual solutions to these design problems.
+When a common problem occurs and affects a lot of people, it's only natural to develop similar solutions to resolve each instance of that problem. Design patterns are conceptual solutions to these design problems.
 
 As more software tools come out, many design patterns are not needed anymore, as these tools solve the issue that the design pattern solves, usually more efficiently. But lots of common problems are resolved using design patterns that are very commonplace.
 
