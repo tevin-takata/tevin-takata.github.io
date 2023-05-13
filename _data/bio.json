@@ -1,0 +1,53 @@
+{
+  "basics": {
+    "name": "Tevin Takata",
+    "label": "Student",
+    "picture": "https://github.com/tevin-takata.png",
+    "email": "takatat9@hawaii.edu",
+    "phone": "808-385-1396",
+    "website": "https://tevin-takata.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96744", "city": "Kaneohe", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "tevin-takata", "url": "http://github.com/tevin-takata" },
+      { "network": "linkedin", "username": "TevinTakata", "url": "www.linkedin.com/in/TevinTakata" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Intelligent Systems" },
+    { "name": "Music Composition" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2019-08-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+  ],
+  "volunteer": [
+  ],
+  "awards": [
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
