@@ -4,7 +4,7 @@ type: essay
 title: "Using Design Patterns"
 # All dates must be YYYY-MM-DD format!
 date: 2023-04-27
-published: true
+published: false
 labels:
   - Software Engineering
   - Design Patterns
