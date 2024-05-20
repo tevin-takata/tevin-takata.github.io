@@ -21,20 +21,20 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Java", "TypeScript", "C", "C++", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Git/GitHub" ]
+      "keywords": [ "Windows", "MacOS", "Git/GitHub", "React", "Meteor" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science",
+      "area": "Information and Computer Sciences",
       "studyType": "B.S.",
-      "startDate": "2019-09-01",
-      "endDate": "2024-05-11",
+      "startDate": "2019",
+      "endDate": "2024",
       "courses": [
       ]
     }
