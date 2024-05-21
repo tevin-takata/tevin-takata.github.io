@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Tevin Takata",
-    "label": "Student",
+    "label": "",
     "picture": "https://github.com/tevin-takata.png",
     "email": "takatatevin19@gmail.com",
     "phone": "808-385-1396",
@@ -10,12 +10,12 @@
     "location": { "address": "", "postalCode": "96744", "city": "Kaneohe", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "tevin-takata", "url": "http://github.com/tevin-takata" },
-      { "network": "linkedin", "username": "TevinTakata", "url": "www.linkedin.com/in/TevinTakata" }
+      { "network": "linkedin", "username": "TevinTakata", "url": "https://www.linkedin.com/in/tevintakata" }
     ]
   },
   "interests": [
     { "name": "Software Engineering" },
-    { "name": "Data Sciences" },
+    { "name": "Web Development" },
     { "name": "Music Composition" }
   ],
   "skills": [
@@ -40,10 +40,6 @@
     }
   ],
   "work": [
-  ],
-  "volunteer": [
-  ],
-  "awards": [
   ],
   "references": [
     {
