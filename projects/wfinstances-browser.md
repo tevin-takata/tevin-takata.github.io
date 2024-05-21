@@ -26,6 +26,4 @@ The table contains a browsable list of workflow instances, sorting capabilities 
 class="mx-auto d-block center-justify"
 src="../img/wfinstances/wfinstances_vis.png" >
 
-Though this projects remains incomplete, it was a big stepping stone for the final Voluntree website. I got to refine my front-end development skills, and the result, though unfinished, is pretty close to the desired product.
-
 <a href="https://github.com/ICS496WfCommons/wfinstances-browser" class="btn btn-outline-dark">View on GitHub</a>
