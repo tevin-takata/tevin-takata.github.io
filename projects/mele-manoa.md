@@ -12,7 +12,7 @@ labels:
 summary: "This was a project to create a web application designed for UH students of different musical backgrounds to meet."
 ---
 
-<a href="{{ https://mele-manoa.github.io/ }}" class="btn btn-outline-dark">Project Page</a>
+<a href="https://mele-manoa.github.io/" class="btn btn-outline-dark">Project Page</a>
 
 Mele Manoa is a web application designed to connect musicians of the Univeristy of Hawaii and Manoa. This application also allows users to connect with bands and groups.
 
@@ -24,4 +24,4 @@ src="../img/mele-manoa/mele-manoa-profile.png" >
 
 Through this project, I feel that I have gotten way more comfortable using JavaScript, Meteor, and MongoDB. However, despite this project being a good lesson in web design, I feel that it was a greater lesson in agile project management. Breaking down the problem to smaller issues, and the constant adaptation with each milestone, I feel was a very important concept to better myself at.
 
-<a href="{{ https://github.com/mele-manoa }}" class="btn btn-outline-dark">Organization Page</a>
+<a href="https://github.com/mele-manoa" class="btn btn-outline-dark">Organization Page</a>
