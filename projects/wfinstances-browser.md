@@ -20,7 +20,7 @@ This was a group project under our sponsor professor Henri Casanova to be a part
 class="mx-auto d-block center-justify"
 src="../img/wfinstances/wfinstances_table.png" >
 
-The table contains a browsable list of workflow instances, sorting capabilities for different metrics, downloading of selected instances, and visualization of instances using Cytoscape.
+We used [Remix](https://remix.run/) and [Mantine React Table](https://www.mantine-react-table.com/) to create a browsable list of workflow instances, sorting capabilities for different metrics, downloading of selected instances, and visualization of instances using [Cytoscape](https://cytoscape.org/). The back-end uses [FastAPI](https://fastapi.tiangolo.com/) and [MongoDB](https://www.mongodb.com/).
 
 <img width="500px"
 class="mx-auto d-block center-justify"
