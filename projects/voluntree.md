@@ -14,7 +14,7 @@ summary: "This was a project to create a web application designed for members of
 
 Voluntree is a web application designed for members of the community to find local events in need of volunteers. Users are able to search for opportunities and organizations, or put out a request for their own event that requires volunteers.
 
-<img width="500px"
+<img width="600px"
 class="mx-auto d-block center-justify"
 src="../img/voluntree/voluntree.png" >
 
